@@ -10,8 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^5.2.1",
-    "openapi-backend": "^5.16.1",
-    "swagger-jsdoc": "^6.2.8",
+    "openapi-backend": "^5.17.0",
+    "swagger-jsdoc": "^6.3.0",
     "swagger-ui-express": "^5.0.1"
   }
 }
